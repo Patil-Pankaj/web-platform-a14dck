@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+* {
+  transition: 0.33 ease all;
+  box-sizing: border-box;
+}
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+form {
+  border: none;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+input[type='text'] {
+  display: block;
+  color: #737373;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  width: 60%;
+  height: 36px;
+  border: solid 1px #737373;
+  border-radius: 5px;
+  margin-bottom: 24px;
+}
+input[type='password'] {
+  display: block;
+  color: #737373;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  width: 60%;
+  height: 36px;
+  border: solid 1px #737373;
+  border-radius: 5px;
+  margin-bottom: 24px;
+}
+label {
+  color: #1a1a1a;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+.button {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  width: 60%;
+  height: 36px;
+  border: solid 1px #ffffff;
+  border-radius: 5px;
+  color: #ffffff;
+  background-color: #0063e6;
+  text-transform: uppercase;
+}
+.button:hover {
+  background-color: #f0f6ff;
+}
