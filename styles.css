@@ -17,7 +17,7 @@ input[type='text'] {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  width: 60%;
+  width: 25%;
   height: 36px;
   border: solid 1px #737373;
   border-radius: 5px;
@@ -29,7 +29,7 @@ input[type='password'] {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  width: 60%;
+  width: 25%;
   height: 36px;
   border: solid 1px #737373;
   border-radius: 5px;
@@ -45,10 +45,11 @@ label {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  width: 60%;
+  width: 25%;
   height: 36px;
   border: solid 1px #ffffff;
   border-radius: 5px;
+  margin-top: 8px;
   color: #ffffff;
   background-color: #0063e6;
   text-transform: uppercase;
